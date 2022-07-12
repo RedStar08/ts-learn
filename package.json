@@ -1,0 +1,23 @@
+{
+  "name": "ts-learn",
+  "version": "1.0.0",
+  "description": "learn how to use typescript with some intresting demo",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedStar08/ts-learn.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "redstar08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedStar08/ts-learn/issues"
+  },
+  "homepage": "https://github.com/RedStar08/ts-learn#readme"
+}
